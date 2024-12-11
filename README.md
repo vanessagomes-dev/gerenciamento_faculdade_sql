@@ -7,6 +7,7 @@ Este projeto implementa o modelo de dados para o gerenciamento de uma faculdade.
 ### Arquivos Incluídos
 
 - `modelo_logico_faculdade.sql`: Script SQL contendo a estrutura do banco de dados relacional.
+- `modelagem_dados.md`: Modelagem de dados, incluindo o dicionário de atributos, normalização e diagramas.
 - `README.md`: Documentação sobre o projeto.
 
 ## Pré-requisitos
