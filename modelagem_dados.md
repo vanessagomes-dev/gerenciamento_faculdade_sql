@@ -41,6 +41,10 @@
 - Eliminamos dependências transitivas.
 - Certificamos que atributos não-chave dependem apenas de sua chave primária.
 
+...
+
+### Diagrama Entidade-Relacionamento
+![Diagrama ER](diagrama_faculdade.png)
 ---
 
 
